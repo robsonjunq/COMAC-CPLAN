@@ -1,4 +1,4 @@
-# comac_correios
+# COMAC-CPLAN
 Aqui devem ser colocadas informações relevantes para o processo de geração de insights com dados da SEA. O projeto está dividido em pastas, são elas:
 
 - scripts (para criação do banco de dados contendo os dados que serão utilizados no projeto)
